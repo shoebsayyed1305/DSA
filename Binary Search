@@ -15,11 +15,6 @@
 
 6.https://leetcode.com/problems/house-robber-iv/
   https://leetcode.com/problems/house-robber-iv/submissions/     
-/*
-    first find mid of all integers and check whether it is possible answer or not by 
-    checking whether count of numbers smaller than mid in array is greater than k
-    if it is then check for smaller mid
-    else check for greter mid
-*/
 
-7.
+7.https://practice.geeksforgeeks.org/problems/aggressive-cows/1
+  https://practice.geeksforgeeks.org/problems/aggressive-cows/1
